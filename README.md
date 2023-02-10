@@ -9,8 +9,8 @@
 <!-- Socials -->
 <p align="center">
    <kbd>
-  <a href="https://www.linkedin.com/in/nasiruddin-ahmed-5459a7265/" title="LinkedIn - Alicia Sykes"><img src="https://img.shields.io/badge/-Nasir_Shah-0072b1?style=flat&logo=Linkedin&logoColor=white" /></a>
-  <a href="https://github.com/nasirxshah" title="GitHub - @Lissy93"><img src="https://img.shields.io/badge/-nasirxshah-3a3a3a?style=flat&logo=GitHub&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/nasirxshah" title="LinkedIn - Kaji Nasiruddin Ahmed"><img src="https://img.shields.io/badge/-Nasir_Shah-0072b1?style=flat&logo=Linkedin&logoColor=white" /></a>
+  <a href="https://github.com/nasirxshah" title="GitHub - @nasirxshah"><img src="https://img.shields.io/badge/-nasirxshah-3a3a3a?style=flat&logo=GitHub&logoColor=white" /></a>
 
   </kbd>
 </p>

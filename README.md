@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-<a href="https://gitstar-ranking.com/Lissy93" title="Snek 🐍"><img width="500" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" /></a>
+<img src="https://raw.githubusercontent.com/nasirxshah/nasirxshah/main/assets/github-snake.svg" />
 </p>
    
 <!-- Outer collapsible -->  
